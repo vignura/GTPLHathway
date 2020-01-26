@@ -1,0 +1,138 @@
+========
+FY 2017:
+========
+1) Set Top Boxes (STBs) : 6.9M / 5.98M active
+   Broadband			: 0.24M
+   Total Homes Passed	: 1.08M
+   HD channels			: 64
+   Average Revenue per user (ARPU): INR 480
+2) The Company has leveraged its industry expertise to benift from the four phased policy on digitization announced by the ministry of informationa and broadcasting that specifies the cabke operators to transmit digital signls through addressable set top boxes.
+3) The company has expanded its business by acquiring LCO's/MSO's and ISO's Through revenue sharing mechanism and providing training and support to LCO's to ensure quality services. 
+LCO - Local Cable Operator
+MSO - Multiple system operator
+
+4) GTPLs digital cable television services are offered actoss India, including towns in Gujarat, west bengl, Maharashtra, Bhiar, Assam, Jharkand, Madya Pradesh, Telangana, Rajasthan and Andhra Pradesh.
+
+5) Digital business in India is evolving fast with dynamic consumption patterns and favourable regulatory environment. The number of total TV households in India has seen a rapid increase from 116 million in 2011 to 183 million in 2017 and it is expected to touch 200 million by 2020. The change in customer behaviour will have significant impact on content uptake and corresponding spends on subscription income.
+
+6) We recently deployed next-generation headend of Harmonics, USA which enables us to offer up to 650 TV channels and 50 OTT channels. The netowrk upgradation to 'GPON Fibre to the home' technology has commenced which enable us to provide high speed broadband services.
+
+7) Growth Oppertunities
+	1) In the cable TV business we have already made investment for Phase 3 & 4 and kicked off monetising. we have further increased our HD offereing to 64 channels to convert potential subscriber to HD packages.
+	2) In braodband, we are developing GPON FTTH to provide high speed services to customer. we are going to make our 8 million plus CATV Homes as Broadband enabled and convert potential homes as Broadband subscribers.
+	3) We are utilising our existing cable TV infrastructure in broadband for better ROI.
+
+========
+FY 2018:
+========
+1) GTPL Hathway Limited is amongst India’s renowned Multiple System Operator
+(MSO) providing digital cable television (CATV) and broadband services.
+Since inception, the Company has signifi cantly evolved and created a niche
+for itself in the industry through advanced service off ering, strong content,
+high quality infrastructure and better distribution network across the country.
+The Company earns majority of its revenue from subscription, placement and
+broadband services.
+
+2) Cable and DTH services
+has come down under the Goods and Services Tax
+regime as the entertainment tax levied by states has
+been subsumed in the GST
+
+3) The Indian Cable TV industry is now connected to over
+100 Million household reaching out to both urban and
+rural areas. Wired broadband in India is still at an early
+stage with a penetration of approximately 18 Million
+homes in a universe of more than 290 Million homes.
+
+4) India is moving in leaps and bounds in terms of internet
+penetration. Our country’s internet user-base has
+increased to 462 Million which is only next to China. This
+number is expected to grow to 830 Million in the next
+four years, benefi tting all internet service providers.
+
+5) We also won prestigious contracts from the Gujarat State Government
+for installing free Wi-Fi at public places and providing internet service
+to around 1,500 police stations. This will enable us to utilise this
+infrastructure to reach out to new customers across 150 plus cities as
+also help us to monetise our already installed assets.
+
+6) The Company launched, “Sach mein Unlimited”,
+fi rst-of-its-kind data plans for its customers in
+Ahmedabad city with options of 40 Mbps and
+100 Mbps speed with NO DATA RESTRICTIONS
+in the price range of ` 388 to ` 762.
+
+7) The Gujarat Government has awarded 2
+prestigious, 5-year contracts worth Rs. 482
+Million under the Digital India Initiative.
+It would involve installation, design and
+maintenance of network to provide free wi-fi
+at public places and internet services at police
+stations in class B and class C cities of Gujarat.
+
+8) The Company also upgraded, during the
+year, its Operations Support System (OSS),
+“Net Vertex” & Billing Support System (BSS),
+“Crestel” products of Sterlite Technologies
+Limited
+
+9) A Mobile App “GTPL Saathi” was also
+launched in April 2018 to enable our LCOs to
+conduct their business from mobile. The app
+aims to provide all the business transactions
+being seamlessly carried out from the mobile
+device, with real-time and direct integration
+with its subscriber management systems. This
+App is being used by 15000+ users currently.
+
+10) The Company also revamped its consumer
+app “My GTPL” providing its customers (Video
+& Broadband segment) with their billing, data
+usage pattern, making payments for renewals,
+etc. with real-time and direct integration with
+its subscriber management systems.  
+(My GTPL has 2.8 star rating in play store)
+
+11) Regulatory and Compliance:
+Telecommunication (Broadcasting and Cable
+Order, 2017 is sub-judice as of today. The
+Order aims at overhauling of the wholesale
+and retail TV channel pricing, among other
+Order, the broadcaster is required to declare
+the Maximum Retail Price (MRP) for each of
+their channel, segregating their channels
+into FTA & Pay. The key impact of the order
+may be possible reduction in channels to end
+consumers, future ARPUs, our pricing model
+and Pay TV economics.
+
+========
+FY 2019:
+========
+1) After successfully upgrading to GPON FTTH
+technology, the Company launched high-speed
+unlimited data services at affordable and competitive
+price bands across all markets to attract new
+customers and upgrade current subscriber base. The
+Company has launched unique dual service product,
+namely, GIGAHD that combines broadband and cable
+services in a single package. The bundled offerings
+are a significant way through which the company
+would convert its customers to GPON to grow the
+ARPUs.
+
+2) During the last quarter of the financial year, there was a
+significant regulatory development that impacted the
+entire industry. The Government rolled out New Tariff
+Order (NTO) which allows the customer to select and
+pay only for the channels they wish to view.
+
+3) As per an ICRA note, the wireline broadband
+subscriber base can increase to 100 Million
+households by FY24, and the revenue generation
+from these segments could expand to ` 80,000
+crore as against ` 14,500 crore in FY19. Market size
+of internet subscriber stands at 560.01 Million as of
+September 2018. Further, India is also the world’s
+second largest telecommunications market with
+1,197.87 Million subscribers, as of December 2018.
